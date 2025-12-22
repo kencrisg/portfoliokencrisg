@@ -1,23 +1,46 @@
 ---
-title: Bloom Box
-publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+title: BlindShades
+publishDate: 2024-03-01 00:00:00
+img: /assets/blindshades.jpg
+img_alt: Website de BlindShades mostrando un catálogo moderno de cortinas con diseño elegante y minimalista
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Desarrollo de un sitio web comercial para un negocio de cortinas,
+  enfocado en presencia digital, experiencia de usuario y conversión
+  de clientes, utilizando tecnologías modernas de frontend y backend.
 tags:
-  - Dev
-  - Branding
+  - Full Stack
+  - Frontend
   - Backend
+  - NestJS
+  - React
+  - TailwindCSS
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+### Objetivo del proyecto
+Diseñar y construir una plataforma web atractiva y funcional que permita:
+- Presentar el catálogo de productos de manera visual e intuitiva  
+- Facilitar el contacto directo con clientes potenciales  
+- Fortalecer la presencia digital del negocio  
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+### Tecnologías utilizadas
+- **Backend:** NestJS  
+- **Frontend:** React (componentes interactivos y carruseles)  
+- **Estilos:** Tailwind CSS  
+- **Despliegue:** Vercel  
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+### Funcionalidades destacadas
+- Diseño responsive optimizado para dispositivos móviles y escritorio  
+- Carruseles interactivos para mostrar productos y trabajos realizados  
+- Arquitectura backend estructurada y escalable con NestJS  
+- Integración fluida entre frontend y backend  
+- Enfoque en rendimiento y tiempos de carga rápidos  
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Impacto
+- Proyecto **entregado y vendido** al dueño del negocio  
+- Sitio actualmente **desplegado y en uso**  
+- Mejora de la visibilidad digital del negocio y su imagen profesional  
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+### Enlace del proyecto
+[https://blindshades.vercel.app/](https://blindshades.vercel.app/)
+
+BlindShades refleja mi capacidad para combinar **desarrollo frontend y backend**, diseño centrado en el usuario y enfoque en soluciones prácticas que generan valor tangible para negocios reales.
