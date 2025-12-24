@@ -113,7 +113,7 @@ Artículo derivado de mi tesis de grado, enfocado en el uso de **Business Intell
 
 Estoy abierto a oportunidades **remotas o presenciales**, donde pueda aportar con mis conocimientos y seguir creciendo profesionalmente.
 
-📧 **Email:** TU_EMAIL  
+📧 **Email:** kencrisgdev@gmail.com
 💼 **LinkedIn:** https://www.linkedin.com/in/cristian-jefferson-castro-gómez  
 
 ---
