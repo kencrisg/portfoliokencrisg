@@ -1,0 +1,9 @@
+name: Disable Pages
+
+on: []
+
+jobs:
+  disable:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "GitHub Pages disabled"
